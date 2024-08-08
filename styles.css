@@ -3,8 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 body{
     background-color: rgb(38, 36, 55);
+    font-family: poppins, open_sans;
     color: white;
 }
 
@@ -19,6 +21,9 @@ header{
     margin-top: 20px;
     width: 50%;
     font-weight: 700;
+}
+.fist span{
+    color: rgb(232, 61, 90);
 }
 
 .second{
