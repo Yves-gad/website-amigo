@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(38, 36, 55);
+    color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fist{
+    font-size: 10px;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 50%;
+    font-weight: 700;
+}
+
+.second{
+    width: 50%;
+}
+
+.second ul{
+    position: absolute;
+    display: flex;
+}
+
+.second ul li{
+    list-style: none;
+    margin: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
