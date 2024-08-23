@@ -57,3 +57,13 @@ main{
     font-size: 15px;
     color: hsla(0, 0%, 100%, 0.5); /* Blanc avec 50% d'opacité */
 }
+.btn{
+    margin-top: 30px;
+    padding: 15px 30px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    background-color:  rgb(232, 61, 90);
+    color: white;
+}
