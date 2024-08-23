@@ -42,3 +42,18 @@ header{
     cursor: pointer;
     transition: background-color 0.3s;
 }
+main{
+    display: flex;
+}
+.title{
+   /* margin-bottom: 60px;  */
+   font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10%;
+    width: 50%;
+    font-weight: 700;
+}
+.title p{
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.5); /* Blanc avec 50% d'opacité */
+}
