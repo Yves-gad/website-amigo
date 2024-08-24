@@ -78,3 +78,9 @@ main{
     text-transform: uppercase;
     margin-bottom: 10px;
 }
+.section-subtitle {
+    font-size: 48px;
+    color: #FF4F63;
+    margin-bottom: 40px;
+    position: relative;
+}
