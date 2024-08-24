@@ -84,3 +84,11 @@ main{
     margin-bottom: 40px;
     position: relative;
 }
+.section-subtitle::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: #FF4F63;
+    margin: 10px auto 0;
+}
