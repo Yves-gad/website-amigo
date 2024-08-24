@@ -104,3 +104,8 @@ main{
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     text-align: left;
 }
+.icon {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #FF4F63;
+}
