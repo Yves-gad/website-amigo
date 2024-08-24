@@ -97,3 +97,10 @@ main{
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
+.skill-box {
+    background-color: #151634;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    text-align: left;
+}
