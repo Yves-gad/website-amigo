@@ -135,3 +135,12 @@ p {
     flex-direction: column;
     gap: 20px;
 }
+.input-field {
+    background-color: #151634;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    color: #ffffff;
+}
+
