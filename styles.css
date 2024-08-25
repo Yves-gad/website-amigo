@@ -119,3 +119,10 @@ p {
     color: rgba(255, 255, 255, 0.7);
     line-height: 1.6;
 }
+.contact-section {
+    color: #FF4F63;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
