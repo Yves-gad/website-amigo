@@ -156,3 +156,6 @@ p {
     cursor: pointer;
     text-align: center;
 }
+.submit-button:hover {
+    background-color: #FF6678;
+}
