@@ -130,3 +130,8 @@ p {
     font-size: 24px;
     margin-bottom: 20px;
 }
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
